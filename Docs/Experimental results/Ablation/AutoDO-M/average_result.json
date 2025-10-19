@@ -1,0 +1,34 @@
+{
+     "100": {
+          "gap_power_rate_avg": 0.0027,
+          "gap_price_rate_avg": 0.0036
+     },
+     "10": {
+          "gap_power_rate_avg": 0.0149,
+          "gap_price_rate_avg": 0.0199
+     },
+     "150": {
+          "gap_power_rate_avg": 0.0032,
+          "gap_price_rate_avg": 0.0045
+     },
+     "200": {
+          "gap_power_rate_avg": 0.002,
+          "gap_price_rate_avg": 0.0066
+     },
+     "20": {
+          "gap_power_rate_avg": 0.0089,
+          "gap_price_rate_avg": 0.0239
+     },
+     "50": {
+          "gap_power_rate_avg": 0.0047,
+          "gap_price_rate_avg": 0.0085
+     },
+     "75": {
+          "gap_power_rate_avg": 0.0017,
+          "gap_price_rate_avg": 0.0063
+     },
+     "avg": {
+          "gap_power_rate_avg": 0.0049,
+          "gap_price_rate_avg": 0.0098
+     }
+}

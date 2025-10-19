@@ -1,0 +1,326 @@
+[
+    {
+        "algorithm": "gurobi_single_period_solve_data_for_test.json",
+        "100": {
+            "average_gap_power_rate": 0.0034,
+            "average_gap_price_rate": 0.0055
+        },
+        "10": {
+            "average_gap_power_rate": 0.0143,
+            "average_gap_price_rate": 0.0197
+        },
+        "150": {
+            "average_gap_power_rate": 0.003,
+            "average_gap_price_rate": 0.005
+        },
+        "200": {
+            "average_gap_power_rate": 0.0028,
+            "average_gap_price_rate": 0.0065
+        },
+        "20": {
+            "average_gap_power_rate": 0.0165,
+            "average_gap_price_rate": 0.0243
+        },
+        "50": {
+            "average_gap_power_rate": 0.0043,
+            "average_gap_price_rate": 0.0079
+        },
+        "75": {
+            "average_gap_power_rate": 0.0026,
+            "average_gap_price_rate": 0.0084
+        },
+        "average": {
+            "average_gap_power_rate": 0.00603,
+            "average_gap_price_rate": 0.0103,
+            "fitness": 0.00817
+        }
+    },
+    {
+        "algorithm": "gurobi_second_period_solve_data_for_test.json",
+        "100": {
+            "average_gap_power_rate": 0.0025,
+            "average_gap_price_rate": 0.0025
+        },
+        "10": {
+            "average_gap_power_rate": 0.0159,
+            "average_gap_price_rate": 0.0263
+        },
+        "150": {
+            "average_gap_power_rate": 0.0012,
+            "average_gap_price_rate": 0.0031
+        },
+        "200": {
+            "average_gap_power_rate": 0.0024,
+            "average_gap_price_rate": 0.0055
+        },
+        "20": {
+            "average_gap_power_rate": 0.0222,
+            "average_gap_price_rate": 0.0295
+        },
+        "50": {
+            "average_gap_power_rate": 0.0044,
+            "average_gap_price_rate": 0.0075
+        },
+        "75": {
+            "average_gap_power_rate": 0.0013,
+            "average_gap_price_rate": 0.0047
+        },
+        "average": {
+            "average_gap_power_rate": 0.00632,
+            "average_gap_price_rate": 0.01033,
+            "fitness": 0.00832
+        }
+    },
+    {
+        "algorithm": "CP_solve_data_for_test.json",
+        "100": {
+            "average_gap_power_rate": 0.0006,
+            "average_gap_price_rate": 0.02
+        },
+        "10": {
+            "average_gap_power_rate": 0.0107,
+            "average_gap_price_rate": 0.0145
+        },
+        "150": {
+            "average_gap_power_rate": 0.0005,
+            "average_gap_price_rate": 0.0176
+        },
+        "200": {
+            "average_gap_power_rate": 0.0003,
+            "average_gap_price_rate": 0.0216
+        },
+        "20": {
+            "average_gap_power_rate": 0.0045,
+            "average_gap_price_rate": 0.0321
+        },
+        "50": {
+            "average_gap_power_rate": 0.0014,
+            "average_gap_price_rate": 0.0205
+        },
+        "75": {
+            "average_gap_power_rate": 0.0011,
+            "average_gap_price_rate": 0.0209
+        },
+        "average": {
+            "average_gap_power_rate": 0.00234,
+            "average_gap_price_rate": 0.02111,
+            "fitness": 0.01172
+        }
+    },
+    {
+        "algorithm": "PP_solve_data_for_test.json",
+        "100": {
+            "average_gap_power_rate": 0.0008,
+            "average_gap_price_rate": 0.0867
+        },
+        "10": {
+            "average_gap_power_rate": 0.0049,
+            "average_gap_price_rate": 0.0568
+        },
+        "150": {
+            "average_gap_power_rate": 0.0004,
+            "average_gap_price_rate": 0.0834
+        },
+        "200": {
+            "average_gap_power_rate": 0.0003,
+            "average_gap_price_rate": 0.0849
+        },
+        "20": {
+            "average_gap_power_rate": 0.0037,
+            "average_gap_price_rate": 0.099
+        },
+        "50": {
+            "average_gap_power_rate": 0.0009,
+            "average_gap_price_rate": 0.0758
+        },
+        "75": {
+            "average_gap_power_rate": 0.0012,
+            "average_gap_price_rate": 0.0858
+        },
+        "average": {
+            "average_gap_power_rate": 0.0015,
+            "average_gap_price_rate": 0.08232,
+            "fitness": 0.04191
+        }
+    },
+    {
+        "algorithm": "best/Eoh_best_solve_data_for_test.json",
+        "100": {
+            "average_gap_power_rate": 0.0013,
+            "average_gap_price_rate": 0.0028
+        },
+        "10": {
+            "average_gap_power_rate": 0.0145,
+            "average_gap_price_rate": 0.0202
+        },
+        "150": {
+            "average_gap_power_rate": 0.0015,
+            "average_gap_price_rate": 0.0037
+        },
+        "200": {
+            "average_gap_power_rate": 0.0013,
+            "average_gap_price_rate": 0.0071
+        },
+        "20": {
+            "average_gap_power_rate": 0.0062,
+            "average_gap_price_rate": 0.0209
+        },
+        "50": {
+            "average_gap_power_rate": 0.0036,
+            "average_gap_price_rate": 0.0076
+        },
+        "75": {
+            "average_gap_power_rate": 0.0013,
+            "average_gap_price_rate": 0.0051
+        },
+        "average": {
+            "average_gap_power_rate": 0.00376,
+            "average_gap_price_rate": 0.00921,
+            "fitness": 0.00648
+        }
+    },
+    {
+        "algorithm": "best/LLM4RUC_with_next_load_best_R1_solve_data_for_test.json",
+        "100": {
+            "average_gap_power_rate": 0.0025,
+            "average_gap_price_rate": 0.0022
+        },
+        "10": {
+            "average_gap_power_rate": 0.0147,
+            "average_gap_price_rate": 0.0212
+        },
+        "150": {
+            "average_gap_power_rate": 0.0026,
+            "average_gap_price_rate": 0.0021
+        },
+        "200": {
+            "average_gap_power_rate": 0.0034,
+            "average_gap_price_rate": 0.0037
+        },
+        "20": {
+            "average_gap_power_rate": 0.0064,
+            "average_gap_price_rate": 0.01
+        },
+        "50": {
+            "average_gap_power_rate": 0.0051,
+            "average_gap_price_rate": 0.0055
+        },
+        "75": {
+            "average_gap_power_rate": 0.0031,
+            "average_gap_price_rate": 0.0032
+        },
+        "average": {
+            "average_gap_power_rate": 0.00507,
+            "average_gap_price_rate": 0.00633,
+            "fitness": 0.0057
+        }
+    },
+    {
+        "algorithm": "best/LLM4RUC_with_next_load_best_V3.1_solve_data_for_test.json",
+        "100": {
+            "average_gap_power_rate": 0.0012,
+            "average_gap_price_rate": 0.0028
+        },
+        "10": {
+            "average_gap_power_rate": 0.0146,
+            "average_gap_price_rate": 0.0234
+        },
+        "150": {
+            "average_gap_power_rate": 0.001,
+            "average_gap_price_rate": 0.0028
+        },
+        "200": {
+            "average_gap_power_rate": 0.0013,
+            "average_gap_price_rate": 0.0076
+        },
+        "20": {
+            "average_gap_power_rate": 0.0079,
+            "average_gap_price_rate": 0.0152
+        },
+        "50": {
+            "average_gap_power_rate": 0.0015,
+            "average_gap_price_rate": 0.0095
+        },
+        "75": {
+            "average_gap_power_rate": 0.0011,
+            "average_gap_price_rate": 0.006
+        },
+        "average": {
+            "average_gap_power_rate": 0.00362,
+            "average_gap_price_rate": 0.00927,
+            "fitness": 0.00645
+        }
+    },
+    {
+        "algorithm": "best/LLM4RUC_without_next_load_best_R1_solve_data_for_test.json",
+        "100": {
+            "average_gap_power_rate": 0.0027,
+            "average_gap_price_rate": 0.0039
+        },
+        "10": {
+            "average_gap_power_rate": 0.0151,
+            "average_gap_price_rate": 0.0201
+        },
+        "150": {
+            "average_gap_power_rate": 0.0039,
+            "average_gap_price_rate": 0.0057
+        },
+        "200": {
+            "average_gap_power_rate": 0.0023,
+            "average_gap_price_rate": 0.0065
+        },
+        "20": {
+            "average_gap_power_rate": 0.0075,
+            "average_gap_price_rate": 0.0196
+        },
+        "50": {
+            "average_gap_power_rate": 0.003,
+            "average_gap_price_rate": 0.0069
+        },
+        "75": {
+            "average_gap_power_rate": 0.0026,
+            "average_gap_price_rate": 0.008
+        },
+        "average": {
+            "average_gap_power_rate": 0.0048,
+            "average_gap_price_rate": 0.0095,
+            "fitness": 0.00715
+        }
+    },
+    {
+        "algorithm": "best/LLM4RUC_without_next_load_best_V3.1_solve_data_for_test.json",
+        "100": {
+            "average_gap_power_rate": 0.0031,
+            "average_gap_price_rate": 0.004
+        },
+        "10": {
+            "average_gap_power_rate": 0.0146,
+            "average_gap_price_rate": 0.0198
+        },
+        "150": {
+            "average_gap_power_rate": 0.0029,
+            "average_gap_price_rate": 0.0051
+        },
+        "200": {
+            "average_gap_power_rate": 0.0021,
+            "average_gap_price_rate": 0.0064
+        },
+        "20": {
+            "average_gap_power_rate": 0.0104,
+            "average_gap_price_rate": 0.0282
+        },
+        "50": {
+            "average_gap_power_rate": 0.0041,
+            "average_gap_price_rate": 0.0084
+        },
+        "75": {
+            "average_gap_power_rate": 0.0025,
+            "average_gap_price_rate": 0.0085
+        },
+        "average": {
+            "average_gap_power_rate": 0.00508,
+            "average_gap_price_rate": 0.01063,
+            "fitness": 0.00785
+        }
+    }
+]
