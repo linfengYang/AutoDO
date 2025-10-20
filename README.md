@@ -4,10 +4,15 @@ Our framework uses a dual-role LLM as both heuristic designer and population opt
 
 ## Requirements:
 joblib==1.4.2
+
 matplotlib==3.10.0
+
 numpy==2.0.1
+
 openai==1.101.0
+
 pebble==5.1.3
+
 gurobipy==12.0
 
 ## Dataset Preparation
@@ -18,8 +23,6 @@ Some of the best-generated heuristics ('*.json' files) are in the folder directo
 
 ## Start the heuristics training
 You can run Run.py in the folder directory '/Test/', and you also need to configure your LLM API key and endpoint.
-
-## Visualization
 
 ------
 
